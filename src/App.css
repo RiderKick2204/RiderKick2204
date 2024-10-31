@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.content {
+  flex: 1;
+  margin-left: 250px;
+}

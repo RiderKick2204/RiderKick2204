@@ -1,0 +1,16 @@
+.sidebar {
+    width: 250px;
+    color: red;
+    border-right: 1px solid black;
+    position: fixed;
+    height: 100vh;
+}
+
+.sidebar ul {
+    text-align: left;
+}
+
+.sidebar ul a {
+    text-decoration: none;
+    color: blue;
+}
